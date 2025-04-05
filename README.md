@@ -35,8 +35,8 @@ This table tracks completed days and links to the folder containing exercises/no
 | Day | Topic(s) Summary                                         | Folder Link        | Status |
 |-----|------------------------------------------------------------|--------------------|--------|
 | 001 | Beginner - Variables, Print, Input, String Manipulation, Debugging | [`./day-01/`](./day-01/) | ✅     |
-| 002 | Beginner - Data Types, Numbers, Operators, Type Conversion, f-Strings | [`./day-02/`](./day-02/) | ⏳     | 
-| 003 | Beginner - Control Flow (if/else), Logical Operators, Scope | [`./day-03/`](./day-03/) | ⚪     |
+| 002 | Beginner - Understanding Data Types and How to Manipulate Strings | [`./day-02/`](./day-02/) | ✅     | 
+| 003 | Beginner - Control Flow (if/else), Logical Operators, Scope | [`./day-03/`](./day-03/) | ⏳     |
 | ... | ... *[Add/Update rows as you complete each day]* ...      | ...                | ...    |
 | 100 | *[Final Project Topic]* | [`./day-100/`](./day-100/)| ⚪     |
 
