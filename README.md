@@ -37,7 +37,10 @@ This table tracks completed days and links to the folder containing exercises/no
 | 01 | Beginner - Variables, Print, Input, String Manipulation, Debugging | [`./day-01/`](./day-01/) | ✅     |
 | 02 | Beginner - Understanding Data Types and How to Manipulate Strings | [`./day-02/`](./day-02/) | ✅     | 
 | 03 | Beginner - Control Flow (if/else), Logical Operators, Scope | [`./day-03/`](./day-03/) | ✅     |
-| 04 | Beginner - Control Flow (if/else), Logical Operators, Scope | [`./day-04/`](./day-03/) | ⏳     |
+| 04 | Beginner - Randomization and Python Lists | [`./day-04/`](./day-04/) | ✅     |
+| 05 | Beginner - Randomization and Python Lists | [`./day-05/`](./day-05/) | ⏳     |
+| 06 | Beginner - Randomization and Python Lists | [`./day-06/`](./day-06/) | ⚪     |
+| 07 | Beginner - Randomization and Python Lists | [`./day-07/`](./day-07/) | ⚪     |
 | ... | ... *[Add/Update rows as you complete each day]* ...      | ...                | ...    |
 | 100 | *[Final Project Topic]* | [`./day-100/`](./day-100/)| ⚪     |
 
